@@ -20,3 +20,4 @@
 
 *Content background: color = #FFFFFF...rounded corners
 *General background: color = #F5F5F5
+
